@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "firebase": "^8.10.1",
+    "firebase": "^10.2.0",
     "node-sass": "^7.0.2",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
@@ -18,7 +18,7 @@
     "redux-saga": "^1.2.2",
     "redux-thunk": "^2.3.0",
     "reselect": "^4.0.0",
-    "styled-components": "^4.4.0",
+    "styled-components": "^6.1.0",
     "@snyk/protect": "1.1100.0"
   },
   "scripts": {
